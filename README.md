@@ -45,7 +45,7 @@ Nairobi, Kenya
 - Structured event logging for auditability and compliance
 - Performance-optimized for latency-sensitive workloads
 
-Repo: `[Add repo link]`
+Repo: `[Adding repo link]`
 
 **2. Supplier Inventory Management System**
 - Flask backend with React frontend, PostgreSQL backbone
@@ -53,7 +53,7 @@ Repo: `[Add repo link]`
 - Comprehensive audit logging for inventory transactions
 - Normalized schema design with integrity constraints
 
-Repo: `[Add repo link]`
+Repo: `[Adding repo link]`
 
 **3. AI Reasoning & Memory Pipeline**
 - FastAPI service with LangChain orchestration and ChromaDB vector storage
@@ -61,7 +61,7 @@ Repo: `[Add repo link]`
 - Controlled execution with validation guardrails
 - Structured logging for observability and debugging
 
-Repo: `[Add repo link]`
+Repo: `[Adding repo link]`
 
 ---
 
